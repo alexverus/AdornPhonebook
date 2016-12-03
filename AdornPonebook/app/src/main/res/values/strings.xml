@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Adorn Your Phonebook</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_update">Update</string>
+    <string name="welcome_text">Bonjour!</string>
+    <string name="welcome_content">Adorn your phonebook will replace all of your contact photos
+        with exquisite portraits inspired by Vincent van Gogh. Grace your phonebook with the very best it deserves.
+        Rest assured your contacts will be more than honoured to bear these as their masks.</string>
+</resources>
